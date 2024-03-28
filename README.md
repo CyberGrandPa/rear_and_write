@@ -1,2 +1,3 @@
-there should be a description of the task here
-Coock_book
+
+ Файл Coock_book - задания 1,2
+ Файл task_3 - задание 3, результат этого задания записывается в result_file.txt
